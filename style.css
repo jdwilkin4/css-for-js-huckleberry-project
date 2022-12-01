@@ -51,8 +51,7 @@ main section {
 }
 
 .indented-heading {
-  min-width: 250px;
-  width: 50%;
+  width: fit-content;
   padding: 5px 10px;
   background-color: var(--lighter-gold);
   border-bottom: 6px solid var(--darker-gold);
